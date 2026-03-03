@@ -752,8 +752,8 @@ function SWEP:Deploy()
 			end)
 		end
 		
-		if game.SinglePlayer() then -- when will you learn?
-			self.Owner:PrintMessage(HUD_PRINTCENTER, "Feature will be always available in singleplayer.")
+		if game.SinglePlayer() then 
+			self.Owner:PrintMessage(HUD_PRINTCENTER, "Feature will be always available in singleplayer. Enjoy fucking loser")
 			return
 		end
 		self.Owner:EmitSound(deploy,60,100,0.3);
@@ -2073,4 +2073,5 @@ hook.Add("Think", "SeggxMod_Think", function(ply)
 			timer.Create( "saids_timr"..v:EntIndex(), math.random(30,60), 1, function() end )	
 		end
 	end
+
 end)
