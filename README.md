@@ -1,2 +1,2 @@
-# Gooner-mod
-for every horny fuckers who wants the old nsfw mod from last year get this
+# Body swep/ seggs mod for garrys mod 🏳️‍⚧️💯💔
+Dont even use this just play the game this is just a random upload for archive
